@@ -7,6 +7,7 @@ import Resume from "./components/resume/Resume";
 import Testimonial from "./components/tesimonial/Testimonial";
 import Contact from "./components/contact/Contact";
 
+
 function App() {
   return (
     <div className="w-full h-auto bg-bodyColor text-lightText px-4">
