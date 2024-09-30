@@ -9,7 +9,7 @@ const Education = () => {
       animate={{ opacity: 1, transition: { duration: 0.5 } }}
       className="w-full flex flex-col lgl:flex-row gap-10 lgl:gap-20"
     >
-      {/* part one */}
+      {/* part one Education*/}
       <div>
         <div className="py-6 lgl:py-12 font-titleFont flex flex-col gap-4">
           <p className="text-sm text-designColor tracking-[4px]">1998 - 2010</p>
